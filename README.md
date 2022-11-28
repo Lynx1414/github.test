@@ -24,4 +24,4 @@ copy the shawan
 -git checkout + shawan of the wanted version ->
 -git checkout master ->
 -git clone + lien github.com -> to retrieve work from remote repository
--git rm --cached <file>... -> To unstage
+-git rm --cached +name of file -> To unstage
